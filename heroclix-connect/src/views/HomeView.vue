@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import ConnectDialog from '../components/ConnectDialog.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <ConnectDialog />
   </main>
 </template>
