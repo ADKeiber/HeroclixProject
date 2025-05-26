@@ -7,3 +7,7 @@ import OptionsBox from '../components/OptionsBox.vue'
     <OptionsBox />
   </main>
 </template>
+
+<style>
+  
+</style>
