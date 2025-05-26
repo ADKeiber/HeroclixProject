@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ConnectDialog from '../components/ConnectDialog.vue'
+import OptionsBox from '../components/OptionsBox.vue'
 </script>
 
 <template>
   <main>
-    <ConnectDialog />
+    <OptionsBox />
   </main>
 </template>
