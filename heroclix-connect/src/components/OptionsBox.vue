@@ -9,8 +9,8 @@ const selectedTab = ref('Create')
 </script>
 
 <template>
-  <div>
-    <Tabs v-model:tabs="tabs" v-model:selected="selectedTab"></Tabs>
+  <div :style="{ width:'33vw'}">
+    <Tabs v-model:tabs="tabs" v-model:selected="selectedTab" ></Tabs>
     <div>{{ selectedTab }}</div>
   </div>
 </template>
