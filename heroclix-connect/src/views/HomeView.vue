@@ -3,9 +3,7 @@ import OptionsBox from '../components/OptionsBox.vue'
 </script>
 
 <template>
-  <main>
-    <OptionsBox />
-  </main>
+  <OptionsBox />
 </template>
 
 <style>
